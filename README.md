@@ -72,3 +72,28 @@
 🧪 Build     → Small & testable
 🔁 Iterate   → Improve continuously
 📚 Teach     → Share what I learn
+
+```
+
+---
+
+🏆 GitHub Trophies
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=alamahul&theme=algolia&no-frame=true&row=1&column=6" /> </p>
+
+---
+
+✨ Fun Facts
+
+⏱ I believe consistency beats speed
+🧩 I enjoy breaking complex problems into simple concepts
+🎮 Games inspire my problem-solving mindset
+
+---
+
+🤝 Let's Connect
+<p align="left"> <a href="https://www.linkedin.com/in/alamahul-bayan-30b16a24a"> <img src="https://img.shields.io/badge/LinkedIn-Alamahul%20Bayan-blue?style=flat-square&logo=linkedin" /> </a> <a href="https://github.com/alamahul"> <img src="https://img.shields.io/badge/GitHub-alamahul-black?style=flat-square&logo=github" /> </a> </p>
+
+
+---
+
+<p align="center"> <i>"Learning is not about being the fastest, but being consistent."</i> </p> ```
