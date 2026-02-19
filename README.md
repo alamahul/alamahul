@@ -56,7 +56,7 @@
 ---
 
 ## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alamahul&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alamahul&theme=react-dark&hide_border=true&from=2025-01-01&to=2025-12-31" />
 
 ---
 
