@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Informatics-Engineer+at+ITG;Web+Developer+%26+Backend+Enthusiast;Learning+by+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Informatics+Engineer+at+ITG;Web+Developer+%26+Backend+Enthusiast;Learning+by+Building+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -55,6 +55,11 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=alamahul&theme=algolia&hide_border=true"/>
 </p>
+
+---
+
+## 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alamahul&theme=react-dark&hide_border=true" />
 
 ---
 
