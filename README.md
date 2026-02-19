@@ -88,9 +88,9 @@
 
 ✨ Fun Facts
 
-⏱ I believe consistency beats speed
-🧩 I enjoy breaking complex problems into simple concepts
-🎮 Games inspire my problem-solving mindset
+- ⏱ I believe consistency beats speed
+- 🧩I enjoy breaking complex problems into simple concepts
+- 🎮 Games inspire my problem-solving mindset
 
 ---
 
