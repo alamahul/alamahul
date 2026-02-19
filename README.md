@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.dicoding.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Dicoding-Curriculum%20Developer-1e90ff?style=for-the-badge&logo=google-classroom&logoColor=white" />
+    <img src="https://img.shields.io/badge/Informatics-Enginner%20ITG-1e90ff?style=for-the-badge&logo=google-classroom&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alamahul-bayan-30b16a24a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
