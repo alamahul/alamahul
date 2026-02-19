@@ -48,17 +48,19 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=alamahul&theme=algolia&hide_border=true"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alamahul/alamahul/refs/heads/output/pacman-contribution-graph-dark.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/alamahul/alamahul/refs/heads/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alamahul&theme=react-dark&hide_border=true&from=2026-01-01&to=2026-12-31" />
-
----
 
 ## 🧠 Currently Learning
 - Backend Architecture & Clean Code
@@ -76,17 +78,6 @@
 📚 Teach     → Share what I learn
 
 ```
-
----
-
-## Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alamahul/alamahul/refs/heads/output/pacman-contribution-graph-dark.svg">
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/alamahul/alamahul/refs/heads/output/pacman-contribution-graph.svg">
-</picture>
----
 
 ✨ Fun Facts
 
