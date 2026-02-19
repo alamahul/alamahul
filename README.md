@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.dicoding.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Informatics-Enginner%20ITG-1e90ff?style=for-the-badge&logo=google-classroom&logoColor=white" />
+    <img src="https://img.shields.io/badge/Informatics%20Enginner-ITG-1e90ff?style=for-the-badge&logo=google-classroom&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alamahul-bayan-30b16a24a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Curriculum+Developer+at+Dicoding;Web+Developer+%26+Backend+Enthusiast;Learning+by+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Informatics-Engineer+at+ITG;Web+Developer+%26+Backend+Enthusiast;Learning+by+Building+%F0%9F%9A%80" />
 </p>
 
 ---
