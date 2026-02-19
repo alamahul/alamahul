@@ -1,30 +1,44 @@
-<!-- Header -->
-<h1 align="center">Halo 👋, Saya Alamahul Bayan</h1>
-<h3 align="center">Curriculum Developer | Web Developer | Tech Enthusiast</h3>
+<!-- ===================== -->
+<!-- 🌈 COLORFUL HEADER 🌈 -->
+<!-- ===================== -->
+<h1 align="center">
+  Hi there 👋, I'm Alamahul Bayan
+</h1>
+
+<h3 align="center">
+  Curriculum Developer • Web Developer • Lifelong Learner
+</h3>
 
 <p align="center">
   <a href="https://www.dicoding.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Dicoding-Curriculum%20Developer-blue?style=for-the-badge&logo=google-classroom&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dicoding-Curriculum%20Developer-1e90ff?style=for-the-badge&logo=google-classroom&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alamahul-bayan-30b16a24a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alamahul%20Bayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/alamahul">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Curriculum+Developer+at+Dicoding;Web+Developer+%26+Backend+Enthusiast;Learning+by+Building+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🚀 Tentang Saya
-- 🎓 **Curriculum Developer** di **Dicoding**
-- 💻 Fokus pada **Web Development & Backend**
-- 📚 Suka menyusun materi pembelajaran yang **terstruktur & aplikatif**
-- 🎯 Tertarik pada **edutech, system design, dan best practice software engineering**
-- 🎨 Hobi: **Menggambar & bermain game**
+## 🌟 About Me
+- 🎓 **Curriculum Developer** at **Dicoding**
+- 💻 Web Developer focusing on **Backend & System Design**
+- 📚 Passionate about creating **clear, structured, and practical learning materials**
+- 🎯 Interested in **EdTech, Clean Architecture, and Best Practices**
+- 🎨 Hobbies: Drawing & Playing Games
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,express,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,express,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -37,33 +51,24 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=alamahul&theme=algolia&hide_border=true"/>
 </p>
 
 ---
 
-## 🌱 Sedang Dipelajari
+## 🧠 Currently Learning
 - Backend Architecture & Clean Code
 - Message Broker (RabbitMQ, Redis)
-- Cloud & DevOps Fundamental
-- AI-assisted Development
+- Cloud & DevOps Fundamentals
+- AI-assisted Software Development
 
 ---
 
-## 🤝 Mari Terhubung
-<p align="left">
-  <a href="https://www.linkedin.com/in/alamahul-bayan-30b16a24a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/alamahul" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Learning is not about speed, but about consistency.”</i>
-</p>
+## 🎯 Interactive Section: Developer Mindset
+```txt
+💡 Think     → Design first
+🧪 Build     → Small & testable
+🔁 Iterate   → Improve continuously
+📚 Teach     → Share what I learn
