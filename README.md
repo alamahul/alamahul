@@ -35,7 +35,7 @@
 
 ## 🧰 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,express,mysql,mongo,postgresql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,express,python,mysql,mongo,postgresql,git,github,vscode&theme=dark" />
 </p>
 
 ---
