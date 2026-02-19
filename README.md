@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  Curriculum Developer • Web Developer • Lifelong Learner
+  Informatics Engineer • Web Developer • Lifelong Learner
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 **Curriculum Developer** at **Dicoding**
+- 🎓 **Informatics Engineer** at **ITG**
 - 💻 Web Developer focusing on **Backend & System Design**
 - 📚 Passionate about creating **clear, structured, and practical learning materials**
 - 🎯 Interested in **EdTech, Clean Architecture, and Best Practices**
