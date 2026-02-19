@@ -77,8 +77,10 @@
 
 ---
 
-🏆 GitHub Trophies
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=alamahul&theme=algolia&no-frame=true&row=1&column=6" /> </p>
+## Contribution
+<p align="center">
+  <img src="https://github.com/alamahul/alamahul/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
@@ -96,4 +98,4 @@
 
 ---
 
-<p align="center"> <i>"Learning is not about being the fastest, but being consistent."</i> </p> ```
+<p align="center"> <i>"Learning is not about being the fastest, but being consistent."</i> </p>
